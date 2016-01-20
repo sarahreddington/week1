@@ -1,0 +1,14 @@
+div {
+	background-color: gray;
+	text-align: center;
+}
+p {
+	font-family: Helvetica Neue, sans-serif;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+a:hover {
+	background-color: green;
+}
